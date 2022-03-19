@@ -4,8 +4,7 @@
     "private": true,
     "main": "public/electron.js",
     "build": {
-        "productName": "React SendBird Messenger",
-        "appId": "com.chnirt.react-sendbird-messenger",
+        "productName": "React Messagebird",
         "dmg": {
             "contents": [
                 {

@@ -41,6 +41,5 @@ export const ERROR = '#f5222d'
 export const BASENAME = 'chnirt'
 
 // login
-export const USERNAME =
-    process.env.NODE_ENV !== 'production' ? 'chnirt@gmail.com' : ''
-export const PASSWORD = process.env.NODE_ENV !== 'production' ? '123456' : ''
+export const USERNAME = process.env.NODE_ENV !== 'production' ? '' : ''
+export const PASSWORD = process.env.NODE_ENV !== 'production' ? '' : ''
